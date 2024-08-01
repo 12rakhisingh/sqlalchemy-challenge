@@ -13,7 +13,7 @@ sqlalchemy-challenge repo - Rakhi
 In this module, we used Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database.
 
 ## Resources
-- **Data Source:** [climate_analysis.ipynb](/SurfsUp/climate_starter.ipynb), [hawaii.sqlite](/SurfsUp/Resources/hawaii.sqlite)
+- **Data Source:** [climate_starter.ipynb](/SurfsUp/climate_starter.ipynb), [hawaii.sqlite](/SurfsUp/Resources/hawaii.sqlite)
 - **Dependencies:** SQLAlchemy, NumPy, Matplotlib, Datetime, Pandas, pyplot
 - **Data files:** [Resources](/SurfsUp/Resources)
 
