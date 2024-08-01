@@ -19,7 +19,7 @@ In this module, we used Python and SQLAlchemy to do a basic climate analysis and
 
 ## Main Scripts
 Main scripts are placed inside the SurfsUp folder.
-Jupyter Notebook - [climate_analysis.ipynb](/SurfsUp/climate_starter.ipynb)  
+Jupyter Notebook - [climate_starter.ipynb](/SurfsUp/climate_starter.ipynb)  
 Climate App File - [app.py](/SurfsUp/app.py) 
 
 ## Screenshots
